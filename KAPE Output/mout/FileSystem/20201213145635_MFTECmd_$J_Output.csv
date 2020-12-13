@@ -1,0 +1,322 @@
+﻿Name,Extension,EntryNumber,SequenceNumber,ParentEntryNumber,ParentSequenceNumber,UpdateSequenceNumber,UpdateTimestamp,UpdateReasons,FileAttributes,OffsetToData,SourceFile
+System Volume Information,,36,1,5,5,0,2020-12-04 13:37:09.6040600,SecurityChange,Hidden|System|Directory,0,C:\GitHub\KAPE\tout\D\$Extend\$J
+System Volume Information,,36,1,5,5,112,2020-12-04 13:37:09.6040600,SecurityChange|Close,Hidden|System|Directory,112,C:\GitHub\KAPE\tout\D\$Extend\$J
+ClientRecoveryPasswordRotation,,40,1,36,1,224,2020-12-04 13:37:09.6280599,FileCreate,Directory,224,C:\GitHub\KAPE\tout\D\$Extend\$J
+ClientRecoveryPasswordRotation,,40,1,36,1,344,2020-12-04 13:37:09.6280599,FileCreate|Close,Directory,344,C:\GitHub\KAPE\tout\D\$Extend\$J
+ClientRecoveryPasswordRotation,,40,1,36,1,464,2020-12-04 13:37:09.6310618,SecurityChange,Directory,464,C:\GitHub\KAPE\tout\D\$Extend\$J
+ClientRecoveryPasswordRotation,,40,1,36,1,584,2020-12-04 13:37:09.6310618,SecurityChange|Close,Directory,584,C:\GitHub\KAPE\tout\D\$Extend\$J
+AadRecoveryPasswordDelete,,41,1,36,1,704,2020-12-04 13:37:09.6320618,FileCreate,Directory,704,C:\GitHub\KAPE\tout\D\$Extend\$J
+AadRecoveryPasswordDelete,,41,1,36,1,816,2020-12-04 13:37:09.6320618,FileCreate|Close,Directory,816,C:\GitHub\KAPE\tout\D\$Extend\$J
+IndexerVolumeGuid,,42,1,36,1,928,2020-12-04 13:37:09.8340594,FileCreate,Archive,928,C:\GitHub\KAPE\tout\D\$Extend\$J
+IndexerVolumeGuid,,42,1,36,1,1024,2020-12-04 13:37:09.8350606,DataExtend|FileCreate,Archive,1024,C:\GitHub\KAPE\tout\D\$Extend\$J
+IndexerVolumeGuid,,42,1,36,1,1120,2020-12-04 13:37:09.8380594,DataExtend|FileCreate|Close,Archive,1120,C:\GitHub\KAPE\tout\D\$Extend\$J
+EDP,,43,1,36,1,1216,2020-12-04 16:32:57.6997022,FileCreate,Directory,1216,C:\GitHub\KAPE\tout\D\$Extend\$J
+EDP,,43,1,36,1,1288,2020-12-04 16:32:57.6997022,FileCreate|Close,Directory,1288,C:\GitHub\KAPE\tout\D\$Extend\$J
+Recovery,,44,1,43,1,1360,2020-12-04 16:32:57.7017033,FileCreate,Directory,1360,C:\GitHub\KAPE\tout\D\$Extend\$J
+Recovery,,44,1,43,1,1440,2020-12-04 16:32:57.7017033,FileCreate|Close,Directory,1440,C:\GitHub\KAPE\tout\D\$Extend\$J
+$TxfLog.blf,.blf,33,1,30,1,1520,2020-12-07 13:27:22.1105039,DataOverwrite,Archive,1520,C:\GitHub\KAPE\tout\D\$Extend\$J
+$TxfLog.blf,.blf,33,1,30,1,1608,2020-12-07 13:27:22.1105039,DataOverwrite|Close,Archive,1608,C:\GitHub\KAPE\tout\D\$Extend\$J
+System Volume Information,,36,1,5,5,1696,2020-12-13 14:27:05.3257051,SecurityChange,Hidden|System|Directory,1696,C:\GitHub\KAPE\tout\D\$Extend\$J
+System Volume Information,,36,1,5,5,1808,2020-12-13 14:27:05.3257051,SecurityChange|Close,Hidden|System|Directory,1808,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was created on Computer A and copied to VHDX.docx,.docx,45,1,5,5,1920,2020-12-13 14:28:56.3468960,FileCreate,Archive,1920,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was created on Computer A and copied to VHDX.docx,.docx,45,1,5,5,2104,2020-12-13 14:28:56.3468960,DataExtend|FileCreate,Archive,2104,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was created on Computer A and copied to VHDX.docx,.docx,45,1,5,5,2288,2020-12-13 14:28:56.3468960,DataExtend|FileCreate|BasicInfoChange,Archive,2288,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was created on Computer A and copied to VHDX.docx,.docx,45,1,5,5,2472,2020-12-13 14:28:56.3509011,DataExtend|FileCreate|BasicInfoChange|Close,Archive,2472,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was created on Computer A and moved to VHDX.docx,.docx,46,1,5,5,2656,2020-12-13 14:29:37.6203722,FileCreate,Archive,2656,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was created on Computer A and moved to VHDX.docx,.docx,46,1,5,5,2832,2020-12-13 14:29:37.6203722,DataExtend|FileCreate,Archive,2832,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was created on Computer A and moved to VHDX.docx,.docx,46,1,5,5,3008,2020-12-13 14:29:37.6213718,DataExtend|FileCreate|BasicInfoChange,Archive,3008,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was created on Computer A and moved to VHDX.docx,.docx,46,1,5,5,3184,2020-12-13 14:29:37.6243723,DataExtend|FileCreate|BasicInfoChange|Close,Archive,3184,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,47,1,5,5,3360,2020-12-13 14:30:20.3848386,FileCreate,Archive,3360,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,47,1,5,5,3592,2020-12-13 14:30:20.3848386,FileCreate|BasicInfoChange,Archive,3592,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,47,1,5,5,3824,2020-12-13 14:30:20.3848386,FileCreate|BasicInfoChange|Close,Archive,3824,C:\GitHub\KAPE\tout\D\$Extend\$J
+.,,5,5,5,5,4096,2020-12-13 14:31:19.8663278,ObjectIdChange,Hidden|System|Directory,4096,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,47,1,5,5,4160,2020-12-13 14:31:19.8933296,ObjectIdChange,Archive,4160,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,47,1,5,5,4392,2020-12-13 14:31:19.8933296,ObjectIdChange|Close,Archive,4392,C:\GitHub\KAPE\tout\D\$Extend\$J
+"~$is file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,48,1,5,5,4624,2020-12-13 14:31:20.5813284,FileCreate,Hidden|Archive,4624,C:\GitHub\KAPE\tout\D\$Extend\$J
+"~$is file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,48,1,5,5,4856,2020-12-13 14:31:20.5823272,DataExtend|FileCreate,Hidden|Archive,4856,C:\GitHub\KAPE\tout\D\$Extend\$J
+"~$is file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,48,1,5,5,5088,2020-12-13 14:31:20.5833272,DataExtend|FileCreate|Close,Hidden|Archive,5088,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRD0000.tmp,.tmp,49,1,5,5,5320,2020-12-13 14:31:23.4467667,FileCreate,Archive,5320,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRD0000.tmp,.tmp,49,1,5,5,5408,2020-12-13 14:31:23.4537665,DataExtend|FileCreate,Archive,5408,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRD0000.tmp,.tmp,49,1,5,5,5496,2020-12-13 14:31:23.4537665,DataOverwrite|DataExtend|FileCreate,Archive,5496,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRD0000.tmp,.tmp,49,1,5,5,5584,2020-12-13 14:31:23.4537665,DataOverwrite|DataExtend|DataTruncation|FileCreate,Archive,5584,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRD0000.tmp,.tmp,49,1,5,5,5672,2020-12-13 14:31:23.4807677,DataOverwrite|DataExtend|DataTruncation|FileCreate|Close,Archive,5672,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRD0000.tmp,.tmp,49,1,5,5,5760,2020-12-13 14:31:23.4817673,BasicInfoChange,Archive,5760,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRD0000.tmp,.tmp,49,1,5,5,5848,2020-12-13 14:31:23.4827680,SecurityChange|BasicInfoChange,Archive,5848,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,47,1,5,5,5936,2020-12-13 14:31:23.4827680,RenameOldName,Archive,5936,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRL0001.tmp,.tmp,47,1,5,5,6168,2020-12-13 14:31:23.4827680,RenameNewName,Archive,6168,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRD0000.tmp,.tmp,49,1,5,5,6256,2020-12-13 14:31:23.4827680,SecurityChange|RenameOldName|BasicInfoChange,Archive,6256,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,49,1,5,5,6344,2020-12-13 14:31:23.4827680,SecurityChange|RenameNewName|BasicInfoChange,Archive,6344,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRL0001.tmp,.tmp,47,1,5,5,6576,2020-12-13 14:31:23.4837671,RenameNewName|Close,Archive,6576,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,49,1,5,5,6664,2020-12-13 14:31:23.4837671,SecurityChange|RenameNewName|BasicInfoChange|Close,Archive,6664,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,49,1,5,5,6896,2020-12-13 14:31:23.4877682,SecurityChange,Archive,6896,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,49,1,5,5,7128,2020-12-13 14:31:23.4877682,SecurityChange|Close,Archive,7128,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRL0001.tmp,.tmp,47,1,5,5,7360,2020-12-13 14:31:23.4907664,BasicInfoChange,Hidden,7360,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,49,1,5,5,7448,2020-12-13 14:31:23.4937678,ObjectIdChange,Archive,7448,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRL0001.tmp,.tmp,47,1,5,5,7680,2020-12-13 14:31:23.5097694,BasicInfoChange|Close,Hidden,7680,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRL0001.tmp,.tmp,47,1,5,5,7768,2020-12-13 14:31:23.5097694,FileDelete|Close,Hidden,7768,C:\GitHub\KAPE\tout\D\$Extend\$J
+"~$is file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,48,1,5,5,7856,2020-12-13 14:31:25.1727663,FileDelete|Close,Hidden|Archive,7856,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,49,1,5,5,8192,2020-12-13 14:31:25.1737670,ObjectIdChange|Close,Archive,8192,C:\GitHub\KAPE\tout\D\$Extend\$J
+"~$is file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,47,2,5,5,8424,2020-12-13 14:33:37.6935292,FileCreate,Hidden|Archive,8424,C:\GitHub\KAPE\tout\D\$Extend\$J
+"~$is file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,47,2,5,5,8656,2020-12-13 14:33:37.6935292,DataExtend|FileCreate,Hidden|Archive,8656,C:\GitHub\KAPE\tout\D\$Extend\$J
+"~$is file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,47,2,5,5,8888,2020-12-13 14:33:37.6945297,DataExtend|FileCreate|Close,Hidden|Archive,8888,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRD0000.tmp,.tmp,48,2,5,5,9120,2020-12-13 14:33:45.9207608,FileCreate,Archive,9120,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRD0000.tmp,.tmp,48,2,5,5,9208,2020-12-13 14:33:45.9287608,DataExtend|FileCreate,Archive,9208,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRD0000.tmp,.tmp,48,2,5,5,9296,2020-12-13 14:33:45.9287608,DataOverwrite|DataExtend|FileCreate,Archive,9296,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRD0000.tmp,.tmp,48,2,5,5,9384,2020-12-13 14:33:45.9287608,DataOverwrite|DataExtend|DataTruncation|FileCreate,Archive,9384,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRD0000.tmp,.tmp,48,2,5,5,9472,2020-12-13 14:33:45.9457618,DataOverwrite|DataExtend|DataTruncation|FileCreate|Close,Archive,9472,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRD0000.tmp,.tmp,48,2,5,5,9560,2020-12-13 14:33:45.9487600,BasicInfoChange,Archive,9560,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRD0000.tmp,.tmp,48,2,5,5,9648,2020-12-13 14:33:45.9487600,SecurityChange|BasicInfoChange,Archive,9648,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,49,1,5,5,9736,2020-12-13 14:33:45.9497906,RenameOldName,Archive,9736,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRL0001.tmp,.tmp,49,1,5,5,9968,2020-12-13 14:33:45.9497906,RenameNewName,Archive,9968,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRD0000.tmp,.tmp,48,2,5,5,10056,2020-12-13 14:33:45.9497906,SecurityChange|RenameOldName|BasicInfoChange,Archive,10056,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,48,2,5,5,10144,2020-12-13 14:33:45.9497906,SecurityChange|RenameNewName|BasicInfoChange,Archive,10144,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRL0001.tmp,.tmp,49,1,5,5,10376,2020-12-13 14:33:45.9497906,RenameNewName|Close,Archive,10376,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,48,2,5,5,10464,2020-12-13 14:33:45.9497906,SecurityChange|RenameNewName|BasicInfoChange|Close,Archive,10464,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,48,2,5,5,10696,2020-12-13 14:33:45.9537604,SecurityChange,Archive,10696,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,48,2,5,5,10928,2020-12-13 14:33:45.9537604,SecurityChange|Close,Archive,10928,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRL0001.tmp,.tmp,49,1,5,5,11160,2020-12-13 14:33:45.9577647,BasicInfoChange,Hidden,11160,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,48,2,5,5,11248,2020-12-13 14:33:45.9627605,ObjectIdChange,Archive,11248,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRL0001.tmp,.tmp,49,1,5,5,11480,2020-12-13 14:33:45.9797896,BasicInfoChange|Close,Hidden,11480,C:\GitHub\KAPE\tout\D\$Extend\$J
+~WRL0001.tmp,.tmp,49,1,5,5,11568,2020-12-13 14:33:45.9797896,FileDelete|Close,Hidden,11568,C:\GitHub\KAPE\tout\D\$Extend\$J
+"~$is file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,47,2,5,5,11656,2020-12-13 14:33:48.4669076,FileDelete|Close,Hidden|Archive,11656,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, and edited within the VHDX.docx",.docx,48,2,5,5,11888,2020-12-13 14:33:48.4669076,ObjectIdChange|Close,Archive,11888,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, timestomped, then copied to VHDX.txt",.txt,47,3,5,5,12288,2020-12-13 14:34:05.0594095,FileCreate,Archive,12288,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, timestomped, then copied to VHDX.txt",.txt,47,3,5,5,12496,2020-12-13 14:34:05.0604104,FileCreate|BasicInfoChange,Archive,12496,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, timestomped, then copied to VHDX.txt",.txt,47,3,5,5,12704,2020-12-13 14:34:05.0604104,FileCreate|BasicInfoChange|Close,Archive,12704,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX.txt",.txt,49,2,5,5,12912,2020-12-13 14:34:28.3843755,FileCreate,Archive,12912,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX.txt",.txt,49,2,5,5,13088,2020-12-13 14:34:28.3853768,FileCreate|BasicInfoChange,Archive,13088,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX.txt",.txt,49,2,5,5,13264,2020-12-13 14:34:28.3853768,FileCreate|BasicInfoChange|Close,Archive,13264,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX.txt",.txt,49,2,5,5,13440,2020-12-13 14:34:50.3595963,RenameOldName,Archive,13440,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX ! and the filename was edited after the special character.txt",.txt,49,2,5,5,13616,2020-12-13 14:34:50.3595963,RenameNewName,Archive,13616,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX ! and the filename was edited after the special character.txt",.txt,49,2,5,5,13904,2020-12-13 14:34:50.3595963,RenameNewName|Close,Archive,13904,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, timestomped, then copied to VHDX.txt",.txt,47,3,5,5,14192,2020-12-13 14:35:20.9469159,ObjectIdChange,Archive,14192,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, timestomped, then copied to VHDX.txt",.txt,47,3,5,5,14400,2020-12-13 14:35:20.9469159,ObjectIdChange|Close,Archive,14400,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, timestomped, then copied to VHDX.txt",.txt,47,3,5,5,14608,2020-12-13 14:35:54.3944703,DataExtend,Archive,14608,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, timestomped, then copied to VHDX.txt",.txt,47,3,5,5,14816,2020-12-13 14:35:54.3944703,DataExtend|Close,Archive,14816,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, timestomped, then copied to VHDX.txt",.txt,47,3,5,5,15024,2020-12-13 14:36:05.6738039,DataTruncation,Archive,15024,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, timestomped, then copied to VHDX.txt",.txt,47,3,5,5,15232,2020-12-13 14:36:05.6738039,DataExtend|DataTruncation,Archive,15232,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, timestomped, then copied to VHDX.txt",.txt,47,3,5,5,15440,2020-12-13 14:36:05.6738039,DataExtend|DataTruncation|Close,Archive,15440,C:\GitHub\KAPE\tout\D\$Extend\$J
+This timestomping screenshot was taken on Computer A and copied to VHDX.jpg,.jpg,50,1,5,5,15648,2020-12-13 14:36:33.1907657,FileCreate,Archive,15648,C:\GitHub\KAPE\tout\D\$Extend\$J
+This timestomping screenshot was taken on Computer A and copied to VHDX.jpg,.jpg,50,1,5,5,15864,2020-12-13 14:36:33.1907657,DataExtend|FileCreate,Archive,15864,C:\GitHub\KAPE\tout\D\$Extend\$J
+This timestomping screenshot was taken on Computer A and copied to VHDX.jpg,.jpg,50,1,5,5,16080,2020-12-13 14:36:33.1917645,DataExtend|FileCreate|BasicInfoChange,Archive,16080,C:\GitHub\KAPE\tout\D\$Extend\$J
+This timestomping screenshot was taken on Computer A and copied to VHDX.jpg,.jpg,50,1,5,5,16384,2020-12-13 14:36:33.1927668,DataExtend|FileCreate|BasicInfoChange|Close,Archive,16384,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, timestomped, then copied to VHDX.txt",.txt,47,3,5,5,16600,2020-12-13 14:36:52.0912748,DataTruncation,Archive,16600,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, timestomped, then copied to VHDX.txt",.txt,47,3,5,5,16808,2020-12-13 14:36:52.0912748,DataExtend|DataTruncation,Archive,16808,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, timestomped, then copied to VHDX.txt",.txt,47,3,5,5,17016,2020-12-13 14:36:52.0912748,DataExtend|DataTruncation|Close,Archive,17016,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, timestomped, then copied to VHDX.txt",.txt,47,3,5,5,17224,2020-12-13 14:36:56.4298486,DataTruncation,Archive,17224,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, timestomped, then copied to VHDX.txt",.txt,47,3,5,5,17432,2020-12-13 14:36:56.4298486,DataExtend|DataTruncation,Archive,17432,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, timestomped, then copied to VHDX.txt",.txt,47,3,5,5,17640,2020-12-13 14:36:56.4298486,DataExtend|DataTruncation|Close,Archive,17640,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, timestomped, then copied to VHDX.txt",.txt,47,3,5,5,17848,2020-12-13 14:37:02.8669281,DataTruncation,Archive,17848,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, timestomped, then copied to VHDX.txt",.txt,47,3,5,5,18056,2020-12-13 14:37:02.8669281,DataExtend|DataTruncation,Archive,18056,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, timestomped, then copied to VHDX.txt",.txt,47,3,5,5,18264,2020-12-13 14:37:02.8669281,DataExtend|DataTruncation|Close,Archive,18264,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then timestomped.txt",.txt,51,1,5,5,18472,2020-12-13 14:38:16.5493588,FileCreate,Archive,18472,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then timestomped.txt",.txt,51,1,5,5,18680,2020-12-13 14:38:16.5493588,FileCreate|BasicInfoChange,Archive,18680,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then timestomped.txt",.txt,51,1,5,5,18888,2020-12-13 14:38:16.5503592,FileCreate|BasicInfoChange|Close,Archive,18888,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then timestomped.txt",.txt,51,1,5,5,19096,2020-12-13 14:39:04.9990060,BasicInfoChange,Archive,19096,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then timestomped.txt",.txt,51,1,5,5,19304,2020-12-13 14:39:04.9990060,BasicInfoChange|Close,Archive,19304,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then timestomped.txt",.txt,51,1,5,5,19512,2020-12-13 14:39:14.0333933,ObjectIdChange,Archive,19512,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then timestomped.txt",.txt,51,1,5,5,19720,2020-12-13 14:39:14.0333933,ObjectIdChange|Close,Archive,19720,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then timestomped.txt",.txt,51,1,5,5,19928,2020-12-13 14:39:33.7440128,DataExtend,Archive,19928,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then timestomped.txt",.txt,51,1,5,5,20136,2020-12-13 14:39:33.7440128,DataExtend|Close,Archive,20136,C:\GitHub\KAPE\tout\D\$Extend\$J
+This timestomping screenshot was taken on Computer A and copied to VHDX 2.jpg,.jpg,52,1,5,5,20480,2020-12-13 14:39:59.7166425,FileCreate,Archive,20480,C:\GitHub\KAPE\tout\D\$Extend\$J
+This timestomping screenshot was taken on Computer A and copied to VHDX 2.jpg,.jpg,52,1,5,5,20696,2020-12-13 14:39:59.7166425,DataExtend|FileCreate,Archive,20696,C:\GitHub\KAPE\tout\D\$Extend\$J
+This timestomping screenshot was taken on Computer A and copied to VHDX 2.jpg,.jpg,52,1,5,5,20912,2020-12-13 14:39:59.7166425,DataExtend|FileCreate|BasicInfoChange,Archive,20912,C:\GitHub\KAPE\tout\D\$Extend\$J
+This timestomping screenshot was taken on Computer A and copied to VHDX 2.jpg,.jpg,52,1,5,5,21128,2020-12-13 14:39:59.7186430,DataExtend|FileCreate|BasicInfoChange|Close,Archive,21128,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then timestomped.txt",.txt,51,1,5,5,21344,2020-12-13 14:40:02.7889498,DataTruncation,Archive,21344,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then timestomped.txt",.txt,51,1,5,5,21552,2020-12-13 14:40:02.7889498,DataExtend|DataTruncation,Archive,21552,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then timestomped.txt",.txt,51,1,5,5,21760,2020-12-13 14:40:02.7889498,DataExtend|DataTruncation|Close,Archive,21760,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, timestomped, then copied to VHDX.txt",.txt,47,3,5,5,21968,2020-12-13 14:40:11.9901061,DataTruncation,Archive,21968,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, timestomped, then copied to VHDX.txt",.txt,47,3,5,5,22176,2020-12-13 14:40:11.9901061,DataExtend|DataTruncation,Archive,22176,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, timestomped, then copied to VHDX.txt",.txt,47,3,5,5,22384,2020-12-13 14:40:11.9901061,DataExtend|DataTruncation|Close,Archive,22384,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then timestomped.txt",.txt,51,1,5,5,22592,2020-12-13 14:40:12.8394166,DataTruncation,Archive,22592,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then timestomped.txt",.txt,51,1,5,5,22800,2020-12-13 14:40:12.8394166,DataExtend|DataTruncation,Archive,22800,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then timestomped.txt",.txt,51,1,5,5,23008,2020-12-13 14:40:12.8394166,DataExtend|DataTruncation|Close,Archive,23008,C:\GitHub\KAPE\tout\D\$Extend\$J
+short.txt,.txt,53,1,5,5,23216,2020-12-13 14:42:10.2589887,FileCreate,Archive,23216,C:\GitHub\KAPE\tout\D\$Extend\$J
+short.txt,.txt,53,1,5,5,23296,2020-12-13 14:42:10.2599911,DataExtend|FileCreate,Archive,23296,C:\GitHub\KAPE\tout\D\$Extend\$J
+short.txt,.txt,53,1,5,5,23376,2020-12-13 14:42:10.2599911,DataExtend|FileCreate|BasicInfoChange,Archive,23376,C:\GitHub\KAPE\tout\D\$Extend\$J
+short.txt,.txt,53,1,5,5,23456,2020-12-13 14:42:10.2599911,DataExtend|FileCreate|BasicInfoChange|Close,Archive,23456,C:\GitHub\KAPE\tout\D\$Extend\$J
+looooooooooooooooooooooooooooooooooooongfilename.txt,.txt,54,1,5,5,23536,2020-12-13 14:42:10.2669892,FileCreate,Archive,23536,C:\GitHub\KAPE\tout\D\$Extend\$J
+looooooooooooooooooooooooooooooooooooongfilename.txt,.txt,54,1,5,5,23704,2020-12-13 14:42:10.2669892,DataExtend|FileCreate,Archive,23704,C:\GitHub\KAPE\tout\D\$Extend\$J
+looooooooooooooooooooooooooooooooooooongfilename.txt,.txt,54,1,5,5,23872,2020-12-13 14:42:10.2669892,DataExtend|FileCreate|BasicInfoChange,Archive,23872,C:\GitHub\KAPE\tout\D\$Extend\$J
+looooooooooooooooooooooooooooooooooooongfilename.txt,.txt,54,1,5,5,24040,2020-12-13 14:42:10.2669892,DataExtend|FileCreate|BasicInfoChange|Close,Archive,24040,C:\GitHub\KAPE\tout\D\$Extend\$J
+New Text Document.txt,.txt,55,1,5,5,24208,2020-12-13 14:42:21.7518818,FileCreate,Archive,24208,C:\GitHub\KAPE\tout\D\$Extend\$J
+New Text Document.txt,.txt,55,1,5,5,24312,2020-12-13 14:42:21.7518818,FileCreate|Close,Archive,24312,C:\GitHub\KAPE\tout\D\$Extend\$J
+New Text Document.txt,.txt,55,1,5,5,24416,2020-12-13 14:42:26.8840664,RenameOldName,Archive,24416,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was created on VHDX.txt,.txt,55,1,5,5,24576,2020-12-13 14:42:26.8840664,RenameNewName,Archive,24576,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was created on VHDX.txt,.txt,55,1,5,5,24704,2020-12-13 14:42:26.8840664,RenameNewName|Close,Archive,24704,C:\GitHub\KAPE\tout\D\$Extend\$J
+New Text Document.txt,.txt,56,1,5,5,24832,2020-12-13 14:42:30.8939829,FileCreate,Archive,24832,C:\GitHub\KAPE\tout\D\$Extend\$J
+New Text Document.txt,.txt,56,1,5,5,24936,2020-12-13 14:42:30.8939829,FileCreate|Close,Archive,24936,C:\GitHub\KAPE\tout\D\$Extend\$J
+New Text Document.txt,.txt,56,1,5,5,25040,2020-12-13 14:42:39.8798890,RenameOldName,Archive,25040,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on VHDX, and renamed shortly thereafter.txt",.txt,56,1,5,5,25144,2020-12-13 14:42:39.8798890,RenameNewName,Archive,25144,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on VHDX, and renamed shortly thereafter.txt",.txt,56,1,5,5,25336,2020-12-13 14:42:39.8798890,RenameNewName|Close,Archive,25336,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on VHDX, and renamed shortly thereafter.txt",.txt,56,1,5,5,25528,2020-12-13 14:43:07.4448910,RenameOldName,Archive,25528,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on VHDX, and renamed shortly thereafter ! this is a file rename test.txt",.txt,56,1,5,5,25720,2020-12-13 14:43:07.4448910,RenameNewName,Archive,25720,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on VHDX, and renamed shortly thereafter ! this is a file rename test.txt",.txt,56,1,5,5,25968,2020-12-13 14:43:07.4448910,RenameNewName|Close,Archive,25968,C:\GitHub\KAPE\tout\D\$Extend\$J
+New Text Document.txt,.txt,57,1,5,5,26216,2020-12-13 14:43:18.4064036,FileCreate,Archive,26216,C:\GitHub\KAPE\tout\D\$Extend\$J
+New Text Document.txt,.txt,57,1,5,5,26320,2020-12-13 14:43:18.4064036,FileCreate|Close,Archive,26320,C:\GitHub\KAPE\tout\D\$Extend\$J
+New Text Document.txt,.txt,57,1,5,5,26424,2020-12-13 14:43:38.0534922,RenameOldName,Archive,26424,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was deleted with the delete button only from VHDX.txt,.txt,57,1,5,5,26528,2020-12-13 14:43:38.0534922,RenameNewName,Archive,26528,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was deleted with the delete button only from VHDX.txt,.txt,57,1,5,5,26720,2020-12-13 14:43:38.0534922,RenameNewName|Close,Archive,26720,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was deleted with the delete button only from VHDX.txt,.txt,57,1,5,5,26912,2020-12-13 14:43:40.6373297,ObjectIdChange,Archive,26912,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was deleted with the delete button only from VHDX.txt,.txt,57,1,5,5,27104,2020-12-13 14:43:40.6373297,ObjectIdChange|Close,Archive,27104,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was deleted with the delete button only from VHDX.txt,.txt,57,1,5,5,27296,2020-12-13 14:43:44.8357300,DataExtend,Archive,27296,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was deleted with the delete button only from VHDX.txt,.txt,57,1,5,5,27488,2020-12-13 14:43:44.8357300,DataExtend|Close,Archive,27488,C:\GitHub\KAPE\tout\D\$Extend\$J
+$RECYCLE.BIN,.BIN,59,1,5,5,27680,2020-12-13 14:43:52.5374246,FileCreate,Directory,27680,C:\GitHub\KAPE\tout\D\$Extend\$J
+$RECYCLE.BIN,.BIN,59,1,5,5,27768,2020-12-13 14:43:52.5374246,FileCreate|Close,Directory,27768,C:\GitHub\KAPE\tout\D\$Extend\$J
+$RECYCLE.BIN,.BIN,59,1,5,5,27856,2020-12-13 14:43:52.5374246,BasicInfoChange,Hidden|System|Directory,27856,C:\GitHub\KAPE\tout\D\$Extend\$J
+$RECYCLE.BIN,.BIN,59,1,5,5,27944,2020-12-13 14:43:52.5374246,BasicInfoChange|Close,Hidden|System|Directory,27944,C:\GitHub\KAPE\tout\D\$Extend\$J
+S-1-5-21-2507465465-2372827616-1507098901-1001,,60,1,59,1,28032,2020-12-13 14:43:52.5374246,FileCreate,Directory,28032,C:\GitHub\KAPE\tout\D\$Extend\$J
+S-1-5-21-2507465465-2372827616-1507098901-1001,,60,1,59,1,28184,2020-12-13 14:43:52.5374246,FileCreate|Close,Directory,28184,C:\GitHub\KAPE\tout\D\$Extend\$J
+S-1-5-21-2507465465-2372827616-1507098901-1001,,60,1,59,1,28336,2020-12-13 14:43:52.5384228,BasicInfoChange,Hidden|System|Directory,28336,C:\GitHub\KAPE\tout\D\$Extend\$J
+S-1-5-21-2507465465-2372827616-1507098901-1001,,60,1,59,1,28488,2020-12-13 14:43:52.5384228,BasicInfoChange|Close,Hidden|System|Directory,28488,C:\GitHub\KAPE\tout\D\$Extend\$J
+desktop.ini,.ini,61,1,60,1,28672,2020-12-13 14:43:52.5384228,FileCreate,Archive,28672,C:\GitHub\KAPE\tout\D\$Extend\$J
+desktop.ini,.ini,61,1,60,1,28760,2020-12-13 14:43:52.5384228,DataExtend|FileCreate,Archive,28760,C:\GitHub\KAPE\tout\D\$Extend\$J
+desktop.ini,.ini,61,1,60,1,28848,2020-12-13 14:43:52.5404247,DataExtend|FileCreate|Close,Archive,28848,C:\GitHub\KAPE\tout\D\$Extend\$J
+desktop.ini,.ini,61,1,60,1,28936,2020-12-13 14:43:52.5404247,BasicInfoChange,Hidden|System,28936,C:\GitHub\KAPE\tout\D\$Extend\$J
+desktop.ini,.ini,61,1,60,1,29024,2020-12-13 14:43:52.5404247,BasicInfoChange|Close,Hidden|System,29024,C:\GitHub\KAPE\tout\D\$Extend\$J
+desktop.ini,.ini,61,1,60,1,29112,2020-12-13 14:43:52.5414240,DataExtend,Hidden|System,29112,C:\GitHub\KAPE\tout\D\$Extend\$J
+desktop.ini,.ini,61,1,60,1,29200,2020-12-13 14:43:52.5434250,DataExtend|Close,Hidden|System|Archive,29200,C:\GitHub\KAPE\tout\D\$Extend\$J
+$IHRUK0Y.txt,.txt,62,1,60,1,29288,2020-12-13 14:43:52.5534245,FileCreate,Archive,29288,C:\GitHub\KAPE\tout\D\$Extend\$J
+$IHRUK0Y.txt,.txt,62,1,60,1,29376,2020-12-13 14:43:52.5534245,DataExtend|FileCreate,Archive,29376,C:\GitHub\KAPE\tout\D\$Extend\$J
+$IHRUK0Y.txt,.txt,62,1,60,1,29464,2020-12-13 14:43:52.5534245,DataExtend|FileCreate|Close,Archive,29464,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was deleted with the delete button only from VHDX.txt,.txt,57,1,5,5,29552,2020-12-13 14:43:52.5544233,RenameOldName,Archive,29552,C:\GitHub\KAPE\tout\D\$Extend\$J
+$RHRUK0Y.txt,.txt,57,1,60,1,29744,2020-12-13 14:43:52.5544233,RenameNewName,Archive,29744,C:\GitHub\KAPE\tout\D\$Extend\$J
+$RHRUK0Y.txt,.txt,57,1,60,1,29832,2020-12-13 14:43:52.5544233,RenameNewName|Close,Archive,29832,C:\GitHub\KAPE\tout\D\$Extend\$J
+$RHRUK0Y.txt,.txt,57,1,60,1,29920,2020-12-13 14:43:52.5554217,SecurityChange,Archive,29920,C:\GitHub\KAPE\tout\D\$Extend\$J
+$RHRUK0Y.txt,.txt,57,1,60,1,30008,2020-12-13 14:43:52.5554217,SecurityChange|Close,Archive,30008,C:\GitHub\KAPE\tout\D\$Extend\$J
+New Text Document.txt,.txt,63,1,5,5,30096,2020-12-13 14:44:00.5295578,FileCreate,Archive,30096,C:\GitHub\KAPE\tout\D\$Extend\$J
+New Text Document.txt,.txt,63,1,5,5,30200,2020-12-13 14:44:00.5295578,FileCreate|Close,Archive,30200,C:\GitHub\KAPE\tout\D\$Extend\$J
+New Text Document.txt,.txt,63,1,5,5,30304,2020-12-13 14:44:08.5596198,RenameOldName,Archive,30304,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was created on VHDX and deleted with shift-delete only.txt,.txt,63,1,5,5,30408,2020-12-13 14:44:08.5596198,RenameNewName,Archive,30408,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was created on VHDX and deleted with shift-delete only.txt,.txt,63,1,5,5,30608,2020-12-13 14:44:08.5596198,RenameNewName|Close,Archive,30608,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was created on VHDX and deleted with shift-delete only.txt,.txt,63,1,5,5,30808,2020-12-13 14:44:11.1382209,ObjectIdChange,Archive,30808,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was created on VHDX and deleted with shift-delete only.txt,.txt,63,1,5,5,31008,2020-12-13 14:44:11.1392441,ObjectIdChange|Close,Archive,31008,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was created on VHDX and deleted with shift-delete only.txt,.txt,63,1,5,5,31208,2020-12-13 14:44:14.3235285,DataExtend,Archive,31208,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was created on VHDX and deleted with shift-delete only.txt,.txt,63,1,5,5,31408,2020-12-13 14:44:14.3235285,DataExtend|Close,Archive,31408,C:\GitHub\KAPE\tout\D\$Extend\$J
+This file was created on VHDX and deleted with shift-delete only.txt,.txt,63,1,5,5,31608,2020-12-13 14:44:19.9513521,FileDelete|Close,Archive,31608,C:\GitHub\KAPE\tout\D\$Extend\$J
+New Text Document.txt,.txt,63,2,5,5,31808,2020-12-13 14:45:04.3528627,FileCreate,Archive,31808,C:\GitHub\KAPE\tout\D\$Extend\$J
+New Text Document.txt,.txt,63,2,5,5,31912,2020-12-13 14:45:04.3528627,FileCreate|Close,Archive,31912,C:\GitHub\KAPE\tout\D\$Extend\$J
+New Text Document.txt,.txt,63,2,5,5,32016,2020-12-13 14:45:08.4694666,RenameOldName,Archive,32016,C:\GitHub\KAPE\tout\D\$Extend\$J
+sdeletetest.txt,.txt,63,2,5,5,32120,2020-12-13 14:45:08.4694666,RenameNewName,Archive,32120,C:\GitHub\KAPE\tout\D\$Extend\$J
+sdeletetest.txt,.txt,63,2,5,5,32216,2020-12-13 14:45:08.4694666,RenameNewName|Close,Archive,32216,C:\GitHub\KAPE\tout\D\$Extend\$J
+sdeletetest.txt,.txt,63,2,5,5,32312,2020-12-13 14:45:25.9904860,RenameOldName,Archive,32312,C:\GitHub\KAPE\tout\D\$Extend\$J
+AAAAAAAAAAAA.AAA,.AAA,63,2,5,5,32408,2020-12-13 14:45:25.9904860,RenameNewName,Archive,32408,C:\GitHub\KAPE\tout\D\$Extend\$J
+AAAAAAAAAAAA.AAA,.AAA,63,2,5,5,32504,2020-12-13 14:45:25.9904860,RenameNewName|Close,Archive,32504,C:\GitHub\KAPE\tout\D\$Extend\$J
+AAAAAAAAAAAA.AAA,.AAA,63,2,5,5,32600,2020-12-13 14:45:25.9904860,RenameOldName,Archive,32600,C:\GitHub\KAPE\tout\D\$Extend\$J
+BBBBBBBBBBBB.BBB,.BBB,63,2,5,5,32768,2020-12-13 14:45:25.9904860,RenameNewName,Archive,32768,C:\GitHub\KAPE\tout\D\$Extend\$J
+BBBBBBBBBBBB.BBB,.BBB,63,2,5,5,32864,2020-12-13 14:45:25.9914783,RenameNewName|Close,Archive,32864,C:\GitHub\KAPE\tout\D\$Extend\$J
+BBBBBBBBBBBB.BBB,.BBB,63,2,5,5,32960,2020-12-13 14:45:25.9914783,RenameOldName,Archive,32960,C:\GitHub\KAPE\tout\D\$Extend\$J
+CCCCCCCCCCCC.CCC,.CCC,63,2,5,5,33056,2020-12-13 14:45:25.9914783,RenameNewName,Archive,33056,C:\GitHub\KAPE\tout\D\$Extend\$J
+CCCCCCCCCCCC.CCC,.CCC,63,2,5,5,33152,2020-12-13 14:45:25.9914783,RenameNewName|Close,Archive,33152,C:\GitHub\KAPE\tout\D\$Extend\$J
+CCCCCCCCCCCC.CCC,.CCC,63,2,5,5,33248,2020-12-13 14:45:25.9914783,RenameOldName,Archive,33248,C:\GitHub\KAPE\tout\D\$Extend\$J
+DDDDDDDDDDDD.DDD,.DDD,63,2,5,5,33344,2020-12-13 14:45:25.9914783,RenameNewName,Archive,33344,C:\GitHub\KAPE\tout\D\$Extend\$J
+DDDDDDDDDDDD.DDD,.DDD,63,2,5,5,33440,2020-12-13 14:45:25.9924959,RenameNewName|Close,Archive,33440,C:\GitHub\KAPE\tout\D\$Extend\$J
+DDDDDDDDDDDD.DDD,.DDD,63,2,5,5,33536,2020-12-13 14:45:25.9924959,RenameOldName,Archive,33536,C:\GitHub\KAPE\tout\D\$Extend\$J
+EEEEEEEEEEEE.EEE,.EEE,63,2,5,5,33632,2020-12-13 14:45:25.9924959,RenameNewName,Archive,33632,C:\GitHub\KAPE\tout\D\$Extend\$J
+EEEEEEEEEEEE.EEE,.EEE,63,2,5,5,33728,2020-12-13 14:45:25.9924959,RenameNewName|Close,Archive,33728,C:\GitHub\KAPE\tout\D\$Extend\$J
+EEEEEEEEEEEE.EEE,.EEE,63,2,5,5,33824,2020-12-13 14:45:25.9924959,RenameOldName,Archive,33824,C:\GitHub\KAPE\tout\D\$Extend\$J
+FFFFFFFFFFFF.FFF,.FFF,63,2,5,5,33920,2020-12-13 14:45:25.9924959,RenameNewName,Archive,33920,C:\GitHub\KAPE\tout\D\$Extend\$J
+FFFFFFFFFFFF.FFF,.FFF,63,2,5,5,34016,2020-12-13 14:45:25.9934878,RenameNewName|Close,Archive,34016,C:\GitHub\KAPE\tout\D\$Extend\$J
+FFFFFFFFFFFF.FFF,.FFF,63,2,5,5,34112,2020-12-13 14:45:25.9934878,RenameOldName,Archive,34112,C:\GitHub\KAPE\tout\D\$Extend\$J
+GGGGGGGGGGGG.GGG,.GGG,63,2,5,5,34208,2020-12-13 14:45:25.9934878,RenameNewName,Archive,34208,C:\GitHub\KAPE\tout\D\$Extend\$J
+GGGGGGGGGGGG.GGG,.GGG,63,2,5,5,34304,2020-12-13 14:45:25.9934878,RenameNewName|Close,Archive,34304,C:\GitHub\KAPE\tout\D\$Extend\$J
+GGGGGGGGGGGG.GGG,.GGG,63,2,5,5,34400,2020-12-13 14:45:25.9934878,RenameOldName,Archive,34400,C:\GitHub\KAPE\tout\D\$Extend\$J
+HHHHHHHHHHHH.HHH,.HHH,63,2,5,5,34496,2020-12-13 14:45:25.9934878,RenameNewName,Archive,34496,C:\GitHub\KAPE\tout\D\$Extend\$J
+HHHHHHHHHHHH.HHH,.HHH,63,2,5,5,34592,2020-12-13 14:45:25.9934878,RenameNewName|Close,Archive,34592,C:\GitHub\KAPE\tout\D\$Extend\$J
+HHHHHHHHHHHH.HHH,.HHH,63,2,5,5,34688,2020-12-13 14:45:25.9944767,RenameOldName,Archive,34688,C:\GitHub\KAPE\tout\D\$Extend\$J
+IIIIIIIIIIII.III,.III,63,2,5,5,34784,2020-12-13 14:45:25.9944767,RenameNewName,Archive,34784,C:\GitHub\KAPE\tout\D\$Extend\$J
+IIIIIIIIIIII.III,.III,63,2,5,5,34880,2020-12-13 14:45:25.9944767,RenameNewName|Close,Archive,34880,C:\GitHub\KAPE\tout\D\$Extend\$J
+IIIIIIIIIIII.III,.III,63,2,5,5,34976,2020-12-13 14:45:25.9944767,RenameOldName,Archive,34976,C:\GitHub\KAPE\tout\D\$Extend\$J
+JJJJJJJJJJJJ.JJJ,.JJJ,63,2,5,5,35072,2020-12-13 14:45:25.9944767,RenameNewName,Archive,35072,C:\GitHub\KAPE\tout\D\$Extend\$J
+JJJJJJJJJJJJ.JJJ,.JJJ,63,2,5,5,35168,2020-12-13 14:45:25.9944767,RenameNewName|Close,Archive,35168,C:\GitHub\KAPE\tout\D\$Extend\$J
+JJJJJJJJJJJJ.JJJ,.JJJ,63,2,5,5,35264,2020-12-13 14:45:25.9954756,RenameOldName,Archive,35264,C:\GitHub\KAPE\tout\D\$Extend\$J
+KKKKKKKKKKKK.KKK,.KKK,63,2,5,5,35360,2020-12-13 14:45:25.9954756,RenameNewName,Archive,35360,C:\GitHub\KAPE\tout\D\$Extend\$J
+KKKKKKKKKKKK.KKK,.KKK,63,2,5,5,35456,2020-12-13 14:45:25.9954756,RenameNewName|Close,Archive,35456,C:\GitHub\KAPE\tout\D\$Extend\$J
+KKKKKKKKKKKK.KKK,.KKK,63,2,5,5,35552,2020-12-13 14:45:25.9954756,RenameOldName,Archive,35552,C:\GitHub\KAPE\tout\D\$Extend\$J
+LLLLLLLLLLLL.LLL,.LLL,63,2,5,5,35648,2020-12-13 14:45:25.9954756,RenameNewName,Archive,35648,C:\GitHub\KAPE\tout\D\$Extend\$J
+LLLLLLLLLLLL.LLL,.LLL,63,2,5,5,35744,2020-12-13 14:45:25.9954756,RenameNewName|Close,Archive,35744,C:\GitHub\KAPE\tout\D\$Extend\$J
+LLLLLLLLLLLL.LLL,.LLL,63,2,5,5,35840,2020-12-13 14:45:25.9964949,RenameOldName,Archive,35840,C:\GitHub\KAPE\tout\D\$Extend\$J
+MMMMMMMMMMMM.MMM,.MMM,63,2,5,5,35936,2020-12-13 14:45:25.9964949,RenameNewName,Archive,35936,C:\GitHub\KAPE\tout\D\$Extend\$J
+MMMMMMMMMMMM.MMM,.MMM,63,2,5,5,36032,2020-12-13 14:45:25.9964949,RenameNewName|Close,Archive,36032,C:\GitHub\KAPE\tout\D\$Extend\$J
+MMMMMMMMMMMM.MMM,.MMM,63,2,5,5,36128,2020-12-13 14:45:25.9964949,RenameOldName,Archive,36128,C:\GitHub\KAPE\tout\D\$Extend\$J
+NNNNNNNNNNNN.NNN,.NNN,63,2,5,5,36224,2020-12-13 14:45:25.9964949,RenameNewName,Archive,36224,C:\GitHub\KAPE\tout\D\$Extend\$J
+NNNNNNNNNNNN.NNN,.NNN,63,2,5,5,36320,2020-12-13 14:45:25.9964949,RenameNewName|Close,Archive,36320,C:\GitHub\KAPE\tout\D\$Extend\$J
+NNNNNNNNNNNN.NNN,.NNN,63,2,5,5,36416,2020-12-13 14:45:25.9964949,RenameOldName,Archive,36416,C:\GitHub\KAPE\tout\D\$Extend\$J
+OOOOOOOOOOOO.OOO,.OOO,63,2,5,5,36512,2020-12-13 14:45:25.9964949,RenameNewName,Archive,36512,C:\GitHub\KAPE\tout\D\$Extend\$J
+OOOOOOOOOOOO.OOO,.OOO,63,2,5,5,36608,2020-12-13 14:45:25.9975006,RenameNewName|Close,Archive,36608,C:\GitHub\KAPE\tout\D\$Extend\$J
+OOOOOOOOOOOO.OOO,.OOO,63,2,5,5,36704,2020-12-13 14:45:25.9975006,RenameOldName,Archive,36704,C:\GitHub\KAPE\tout\D\$Extend\$J
+PPPPPPPPPPPP.PPP,.PPP,63,2,5,5,36864,2020-12-13 14:45:25.9975006,RenameNewName,Archive,36864,C:\GitHub\KAPE\tout\D\$Extend\$J
+PPPPPPPPPPPP.PPP,.PPP,63,2,5,5,36960,2020-12-13 14:45:25.9975006,RenameNewName|Close,Archive,36960,C:\GitHub\KAPE\tout\D\$Extend\$J
+PPPPPPPPPPPP.PPP,.PPP,63,2,5,5,37056,2020-12-13 14:45:25.9975006,RenameOldName,Archive,37056,C:\GitHub\KAPE\tout\D\$Extend\$J
+QQQQQQQQQQQQ.QQQ,.QQQ,63,2,5,5,37152,2020-12-13 14:45:25.9975006,RenameNewName,Archive,37152,C:\GitHub\KAPE\tout\D\$Extend\$J
+QQQQQQQQQQQQ.QQQ,.QQQ,63,2,5,5,37248,2020-12-13 14:45:25.9975006,RenameNewName|Close,Archive,37248,C:\GitHub\KAPE\tout\D\$Extend\$J
+QQQQQQQQQQQQ.QQQ,.QQQ,63,2,5,5,37344,2020-12-13 14:45:25.9984852,RenameOldName,Archive,37344,C:\GitHub\KAPE\tout\D\$Extend\$J
+RRRRRRRRRRRR.RRR,.RRR,63,2,5,5,37440,2020-12-13 14:45:25.9984852,RenameNewName,Archive,37440,C:\GitHub\KAPE\tout\D\$Extend\$J
+RRRRRRRRRRRR.RRR,.RRR,63,2,5,5,37536,2020-12-13 14:45:25.9984852,RenameNewName|Close,Archive,37536,C:\GitHub\KAPE\tout\D\$Extend\$J
+RRRRRRRRRRRR.RRR,.RRR,63,2,5,5,37632,2020-12-13 14:45:25.9984852,RenameOldName,Archive,37632,C:\GitHub\KAPE\tout\D\$Extend\$J
+SSSSSSSSSSSS.SSS,.SSS,63,2,5,5,37728,2020-12-13 14:45:25.9984852,RenameNewName,Archive,37728,C:\GitHub\KAPE\tout\D\$Extend\$J
+SSSSSSSSSSSS.SSS,.SSS,63,2,5,5,37824,2020-12-13 14:45:25.9984852,RenameNewName|Close,Archive,37824,C:\GitHub\KAPE\tout\D\$Extend\$J
+SSSSSSSSSSSS.SSS,.SSS,63,2,5,5,37920,2020-12-13 14:45:25.9994758,RenameOldName,Archive,37920,C:\GitHub\KAPE\tout\D\$Extend\$J
+TTTTTTTTTTTT.TTT,.TTT,63,2,5,5,38016,2020-12-13 14:45:25.9994758,RenameNewName,Archive,38016,C:\GitHub\KAPE\tout\D\$Extend\$J
+TTTTTTTTTTTT.TTT,.TTT,63,2,5,5,38112,2020-12-13 14:45:25.9994758,RenameNewName|Close,Archive,38112,C:\GitHub\KAPE\tout\D\$Extend\$J
+TTTTTTTTTTTT.TTT,.TTT,63,2,5,5,38208,2020-12-13 14:45:25.9994758,RenameOldName,Archive,38208,C:\GitHub\KAPE\tout\D\$Extend\$J
+UUUUUUUUUUUU.UUU,.UUU,63,2,5,5,38304,2020-12-13 14:45:25.9994758,RenameNewName,Archive,38304,C:\GitHub\KAPE\tout\D\$Extend\$J
+UUUUUUUUUUUU.UUU,.UUU,63,2,5,5,38400,2020-12-13 14:45:25.9994758,RenameNewName|Close,Archive,38400,C:\GitHub\KAPE\tout\D\$Extend\$J
+UUUUUUUUUUUU.UUU,.UUU,63,2,5,5,38496,2020-12-13 14:45:26.0004779,RenameOldName,Archive,38496,C:\GitHub\KAPE\tout\D\$Extend\$J
+VVVVVVVVVVVV.VVV,.VVV,63,2,5,5,38592,2020-12-13 14:45:26.0004779,RenameNewName,Archive,38592,C:\GitHub\KAPE\tout\D\$Extend\$J
+VVVVVVVVVVVV.VVV,.VVV,63,2,5,5,38688,2020-12-13 14:45:26.0004779,RenameNewName|Close,Archive,38688,C:\GitHub\KAPE\tout\D\$Extend\$J
+VVVVVVVVVVVV.VVV,.VVV,63,2,5,5,38784,2020-12-13 14:45:26.0014763,RenameOldName,Archive,38784,C:\GitHub\KAPE\tout\D\$Extend\$J
+WWWWWWWWWWWW.WWW,.WWW,63,2,5,5,38880,2020-12-13 14:45:26.0014763,RenameNewName,Archive,38880,C:\GitHub\KAPE\tout\D\$Extend\$J
+WWWWWWWWWWWW.WWW,.WWW,63,2,5,5,38976,2020-12-13 14:45:26.0014763,RenameNewName|Close,Archive,38976,C:\GitHub\KAPE\tout\D\$Extend\$J
+WWWWWWWWWWWW.WWW,.WWW,63,2,5,5,39072,2020-12-13 14:45:26.0014763,RenameOldName,Archive,39072,C:\GitHub\KAPE\tout\D\$Extend\$J
+XXXXXXXXXXXX.XXX,.XXX,63,2,5,5,39168,2020-12-13 14:45:26.0014763,RenameNewName,Archive,39168,C:\GitHub\KAPE\tout\D\$Extend\$J
+XXXXXXXXXXXX.XXX,.XXX,63,2,5,5,39264,2020-12-13 14:45:26.0014763,RenameNewName|Close,Archive,39264,C:\GitHub\KAPE\tout\D\$Extend\$J
+XXXXXXXXXXXX.XXX,.XXX,63,2,5,5,39360,2020-12-13 14:45:26.0024771,RenameOldName,Archive,39360,C:\GitHub\KAPE\tout\D\$Extend\$J
+YYYYYYYYYYYY.YYY,.YYY,63,2,5,5,39456,2020-12-13 14:45:26.0024771,RenameNewName,Archive,39456,C:\GitHub\KAPE\tout\D\$Extend\$J
+YYYYYYYYYYYY.YYY,.YYY,63,2,5,5,39552,2020-12-13 14:45:26.0024771,RenameNewName|Close,Archive,39552,C:\GitHub\KAPE\tout\D\$Extend\$J
+YYYYYYYYYYYY.YYY,.YYY,63,2,5,5,39648,2020-12-13 14:45:26.0024771,RenameOldName,Archive,39648,C:\GitHub\KAPE\tout\D\$Extend\$J
+ZZZZZZZZZZZZ.ZZZ,.ZZZ,63,2,5,5,39744,2020-12-13 14:45:26.0024771,RenameNewName,Archive,39744,C:\GitHub\KAPE\tout\D\$Extend\$J
+ZZZZZZZZZZZZ.ZZZ,.ZZZ,63,2,5,5,39840,2020-12-13 14:45:26.0024771,RenameNewName|Close,Archive,39840,C:\GitHub\KAPE\tout\D\$Extend\$J
+ZZZZZZZZZZZZ.ZZZ,.ZZZ,63,2,5,5,39936,2020-12-13 14:45:26.0034865,FileDelete|Close,Archive,39936,C:\GitHub\KAPE\tout\D\$Extend\$J
+New Text Document.txt,.txt,63,3,5,5,40032,2020-12-13 14:45:41.1640989,FileCreate,Archive,40032,C:\GitHub\KAPE\tout\D\$Extend\$J
+New Text Document.txt,.txt,63,3,5,5,40136,2020-12-13 14:45:41.1650976,FileCreate|Close,Archive,40136,C:\GitHub\KAPE\tout\D\$Extend\$J
+New Text Document.txt,.txt,63,3,5,5,40240,2020-12-13 14:45:45.5925680,RenameOldName,Archive,40240,C:\GitHub\KAPE\tout\D\$Extend\$J
+sdelete cmd output.txt,.txt,63,3,5,5,40344,2020-12-13 14:45:45.5925680,RenameNewName,Archive,40344,C:\GitHub\KAPE\tout\D\$Extend\$J
+sdelete cmd output.txt,.txt,63,3,5,5,40448,2020-12-13 14:45:45.5925680,RenameNewName|Close,Archive,40448,C:\GitHub\KAPE\tout\D\$Extend\$J
+sdelete cmd output.txt,.txt,63,3,5,5,40552,2020-12-13 14:45:46.7943797,ObjectIdChange,Archive,40552,C:\GitHub\KAPE\tout\D\$Extend\$J
+sdelete cmd output.txt,.txt,63,3,5,5,40656,2020-12-13 14:45:46.7943797,ObjectIdChange|Close,Archive,40656,C:\GitHub\KAPE\tout\D\$Extend\$J
+sdelete cmd output.txt,.txt,63,3,5,5,40760,2020-12-13 14:46:20.7708051,DataExtend,Archive,40760,C:\GitHub\KAPE\tout\D\$Extend\$J
+sdelete cmd output.txt,.txt,63,3,5,5,40960,2020-12-13 14:46:20.7717860,DataExtend|Close,Archive,40960,C:\GitHub\KAPE\tout\D\$Extend\$J
+Image files.txt,.txt,64,1,5,5,41064,2020-12-13 14:53:20.0743238,FileCreate,Archive,41064,C:\GitHub\KAPE\tout\D\$Extend\$J
+Image files.txt,.txt,64,1,5,5,41160,2020-12-13 14:53:20.0753246,DataExtend|FileCreate,Archive,41160,C:\GitHub\KAPE\tout\D\$Extend\$J
+Image files.txt,.txt,64,1,5,5,41256,2020-12-13 14:53:20.0753246,DataExtend|FileCreate|BasicInfoChange,Archive,41256,C:\GitHub\KAPE\tout\D\$Extend\$J
+Image files.txt,.txt,64,1,5,5,41352,2020-12-13 14:53:20.0753246,DataExtend|FileCreate|BasicInfoChange|Close,Archive,41352,C:\GitHub\KAPE\tout\D\$Extend\$J
+This image is a modified version of Image.png (1).png,.png,65,1,5,5,41448,2020-12-13 14:53:20.0903220,FileCreate,Archive,41448,C:\GitHub\KAPE\tout\D\$Extend\$J
+This image is a modified version of Image.png (1).png,.png,65,1,5,5,41616,2020-12-13 14:53:20.0913218,DataExtend|FileCreate,Archive,41616,C:\GitHub\KAPE\tout\D\$Extend\$J
+This image is a modified version of Image.png (1).png,.png,65,1,5,5,41784,2020-12-13 14:53:20.0913218,DataExtend|FileCreate|BasicInfoChange,Archive,41784,C:\GitHub\KAPE\tout\D\$Extend\$J
+This image is a modified version of Image.png (1).png,.png,65,1,5,5,41952,2020-12-13 14:53:20.0913218,DataExtend|FileCreate|BasicInfoChange|Close,Archive,41952,C:\GitHub\KAPE\tout\D\$Extend\$J
+This image is a modified version of Image.png (2).png,.png,66,1,5,5,42120,2020-12-13 14:53:20.0983249,FileCreate,Archive,42120,C:\GitHub\KAPE\tout\D\$Extend\$J
+This image is a modified version of Image.png (2).png,.png,66,1,5,5,42288,2020-12-13 14:53:20.0983249,DataExtend|FileCreate,Archive,42288,C:\GitHub\KAPE\tout\D\$Extend\$J
+This image is a modified version of Image.png (2).png,.png,66,1,5,5,42456,2020-12-13 14:53:20.0983249,DataExtend|FileCreate|BasicInfoChange,Archive,42456,C:\GitHub\KAPE\tout\D\$Extend\$J
+This image is a modified version of Image.png (2).png,.png,66,1,5,5,42624,2020-12-13 14:53:20.0983249,DataExtend|FileCreate|BasicInfoChange|Close,Archive,42624,C:\GitHub\KAPE\tout\D\$Extend\$J
+This image is a modified version of Image.png (3).png,.png,67,1,5,5,42792,2020-12-13 14:53:20.1053227,FileCreate,Archive,42792,C:\GitHub\KAPE\tout\D\$Extend\$J
+This image is a modified version of Image.png (3).png,.png,67,1,5,5,42960,2020-12-13 14:53:20.1063254,DataExtend|FileCreate,Archive,42960,C:\GitHub\KAPE\tout\D\$Extend\$J
+This image is a modified version of Image.png (3).png,.png,67,1,5,5,43128,2020-12-13 14:53:20.1063254,DataExtend|FileCreate|BasicInfoChange,Archive,43128,C:\GitHub\KAPE\tout\D\$Extend\$J
+This image is a modified version of Image.png (3).png,.png,67,1,5,5,43296,2020-12-13 14:53:20.1063254,DataExtend|FileCreate|BasicInfoChange|Close,Archive,43296,C:\GitHub\KAPE\tout\D\$Extend\$J
+This image is a modified version of Image.png (4).png,.png,68,1,5,5,43464,2020-12-13 14:53:20.1123225,FileCreate,Archive,43464,C:\GitHub\KAPE\tout\D\$Extend\$J
+This image is a modified version of Image.png (4).png,.png,68,1,5,5,43632,2020-12-13 14:53:20.1123225,DataExtend|FileCreate,Archive,43632,C:\GitHub\KAPE\tout\D\$Extend\$J
+This image is a modified version of Image.png (4).png,.png,68,1,5,5,43800,2020-12-13 14:53:20.1133216,DataExtend|FileCreate|BasicInfoChange,Archive,43800,C:\GitHub\KAPE\tout\D\$Extend\$J
+This image is a modified version of Image.png (4).png,.png,68,1,5,5,43968,2020-12-13 14:53:20.1133216,DataExtend|FileCreate|BasicInfoChange|Close,Archive,43968,C:\GitHub\KAPE\tout\D\$Extend\$J
+This is an unmodified version of this image.png,.png,69,1,5,5,44136,2020-12-13 14:53:20.1163228,FileCreate,Archive,44136,C:\GitHub\KAPE\tout\D\$Extend\$J
+This is an unmodified version of this image.png,.png,69,1,5,5,44296,2020-12-13 14:53:20.1163228,DataExtend|FileCreate,Archive,44296,C:\GitHub\KAPE\tout\D\$Extend\$J
+This is an unmodified version of this image.png,.png,69,1,5,5,44456,2020-12-13 14:53:20.1163228,DataExtend|FileCreate|BasicInfoChange,Archive,44456,C:\GitHub\KAPE\tout\D\$Extend\$J
+This is an unmodified version of this image.png,.png,69,1,5,5,44616,2020-12-13 14:53:20.1173226,DataExtend|FileCreate|BasicInfoChange|Close,Archive,44616,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then overwritten with a file of the same name with new added contents.txt",.txt,70,1,5,5,45056,2020-12-13 14:54:29.7774089,FileCreate,Archive,45056,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then overwritten with a file of the same name with new added contents.txt",.txt,70,1,5,5,45368,2020-12-13 14:54:29.7774089,DataExtend|FileCreate,Archive,45368,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then overwritten with a file of the same name with new added contents.txt",.txt,70,1,5,5,45680,2020-12-13 14:54:29.7774089,DataExtend|FileCreate|BasicInfoChange,Archive,45680,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then overwritten with a file of the same name with new added contents.txt",.txt,70,1,5,5,45992,2020-12-13 14:54:29.7774089,DataExtend|FileCreate|BasicInfoChange|Close,Archive,45992,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then overwritten with a file of the same name with new added contents.txt",.txt,70,1,5,5,46304,2020-12-13 14:56:19.7248881,FileDelete|Close,Archive,46304,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then overwritten with a file of the same name with new added contents.txt",.txt,70,2,5,5,46616,2020-12-13 14:56:19.7248881,FileCreate,Archive,46616,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then overwritten with a file of the same name with new added contents.txt",.txt,70,2,5,5,46928,2020-12-13 14:56:19.7248881,DataExtend|FileCreate,Archive,46928,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then overwritten with a file of the same name with new added contents.txt",.txt,70,2,5,5,47240,2020-12-13 14:56:19.7258892,DataExtend|FileCreate|BasicInfoChange,Archive,47240,C:\GitHub\KAPE\tout\D\$Extend\$J
+"This file was created on Computer A, copied to VHDX, then overwritten with a file of the same name with new added contents.txt",.txt,70,2,5,5,47552,2020-12-13 14:56:19.7258892,DataExtend|FileCreate|BasicInfoChange|Close,Archive,47552,C:\GitHub\KAPE\tout\D\$Extend\$J
