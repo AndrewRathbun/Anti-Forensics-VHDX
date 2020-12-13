@@ -6,4 +6,6 @@ For more on KAPE, check out my guide on AboutDFIR [here](https://aboutdfir.com/t
 
 For more on Timeline Exporer, check out my guide on AboutDFIR [here](https://aboutdfir.com/toolsandartifacts/windows/timeline-explorer/).
 
+MFT Explorer/MFTECmd guide coming soon!
+
 If there are any issues or suggestions for improvement, please create an Issue or do a Pull Request with updates of your own. 
