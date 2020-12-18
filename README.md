@@ -12,6 +12,11 @@ MFT Explorer/MFTECmd guide coming soon!
 
 If there are any issues or suggestions for improvement, please create an Issue or do a Pull Request with updates of your own. 
 
+## Changelog  
+| Date | Description |
+| :---- | :---- |
+| 2020-12-23 | Initial release |
+
 Hasher Results:
 
 Filename: Anti-Forensics Disk Image.vhdx
