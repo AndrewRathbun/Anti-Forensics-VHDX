@@ -17,10 +17,8 @@ If there are any issues or suggestions for improvement, please create an Issue o
 | :---- | :---- |
 | 2020-12-23 | Initial release |
 
-Hasher Results:
+## Hasher Results:
 
-Filename: Anti-Forensics Disk Image.vhdx
-
-SHA1: 25ZNIOHNVH357KN3ZTJ4KPGPSUU3PL3L
-
-MD5: 400B7FBB6B7B0707F84BC600A6AE0A23
+| Filename | SHA1 | MD5 |
+| :---- | :---- | :---- |
+| Anti-Forensics Disk Image.vhdx | 25ZNIOHNVH357KN3ZTJ4KPGPSUU3PL3L | 400B7FBB6B7B0707F84BC600A6AE0A23 |
