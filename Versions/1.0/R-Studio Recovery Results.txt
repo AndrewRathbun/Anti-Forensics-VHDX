@@ -1,0 +1,1 @@
+The file that is all letter Z's must be the file I copied over to the VHDX and deleted with SDelete. 
