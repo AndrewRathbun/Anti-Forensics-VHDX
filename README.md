@@ -8,14 +8,14 @@ For more on KAPE, check out my guide on AboutDFIR [here](https://aboutdfir.com/t
 
 For more on Timeline Exporer, check out my guide on AboutDFIR [here](https://aboutdfir.com/toolsandartifacts/windows/timeline-explorer/).
 
-MFT Explorer/MFTECmd guide coming soon!
+For more on MFT Explorer/MFTECmd check out my guide on AboutDFIR [here](https://aboutdfir.com/toolsandartifacts/windows/mft-explorer-mftecmd/).
 
 If there are any issues or suggestions for improvement, please create an Issue or do a Pull Request with updates of your own. 
 
 ## Changelog  
-| Date | Description |
-| :---- | :---- |
-| 2020-12-23 | Initial release |
+| Date | Version | Description | Link |
+| :--- | :--- | :--- | :--- |
+| 2020-12-23 | 1.0 | Initial release | [Link](https://github.com/rathbuna/Anti-Forensics-VHDX/tree/main/Versions/1.0) |
 
 ## Hashes
 
