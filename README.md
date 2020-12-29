@@ -6,7 +6,7 @@ Also, as a hint, some files have been deleted through various means. The filenam
 
 For more on KAPE, check out my guide on AboutDFIR [here](https://aboutdfir.com/toolsandartifacts/windows/kape/).
 
-For more on Timeline Exporer, check out my guide on AboutDFIR [here](https://aboutdfir.com/toolsandartifacts/windows/timeline-explorer/).
+For more on Timeline Explorer, check out my guide on AboutDFIR [here](https://aboutdfir.com/toolsandartifacts/windows/timeline-explorer/).
 
 For more on MFT Explorer/MFTECmd check out my guide on AboutDFIR [here](https://aboutdfir.com/toolsandartifacts/windows/mft-explorer-mftecmd/).
 
