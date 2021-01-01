@@ -16,6 +16,7 @@ If there are any issues or suggestions for improvement, please create an Issue o
 | Date | Version | Description | Link |
 | :--- | :--- | :--- | :--- |
 | 2020-12-23 | 1.0 | Initial release | [Link](https://github.com/rathbuna/Anti-Forensics-VHDX/tree/main/Versions/1.0) |
+| 2021-01-01 | 1.1 | Added reformatted/wiped versions of v1.0 VHDX with KAPE Output, Recovered Files, etc | [Link](https://github.com/rathbuna/Anti-Forensics-VHDX/tree/main/Versions/1.0) |
 
 ## Hashes
 
