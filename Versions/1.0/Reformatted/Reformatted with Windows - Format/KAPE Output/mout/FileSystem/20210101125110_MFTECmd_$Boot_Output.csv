@@ -1,0 +1,2 @@
+﻿EntryPoint,Signature,BytesPerSector,SectorsPerCluster,ClusterSize,ReservedSectors,TotalSectors,MftClusterBlockNumber,MftMirrClusterBlockNumber,MftEntrySize,IndexEntrySize,VolumeSerialNumberRaw,VolumeSerialNumber,VolumeSerialNumber32,VolumeSerialNumber32Reverse,SectorSignature,SourceFile
+0xEB 0x52 0x90,"NTFS    ",512,8,4096,0,47103,1962,2,1024,4096,0x649ACFA59ACF725A,5A 72 CF 9A A5 CF 9A 64,5A 72 CF 9A,9A CF 72 5A,55 AA,C:\Users\Andrew Rathbun\Documents\GitHub\Anti-Forensics-VHDX\Versions\1.0\Reformatted\Reformatted with Windows - Format\KAPE Output\tout\G\$Boot
